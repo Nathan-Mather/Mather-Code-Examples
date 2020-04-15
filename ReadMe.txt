@@ -36,6 +36,12 @@ get_google_trends_Rselenium: Put a large number of terms into google trends and 
 This incolves interacting with the webiste and so I use Rselenium. 
 
 
+Stata: 
+completer_regressions
+cte_vs_mich_sum_stats
+Examples of running various regressions and creating summary stats. I have used Stata much less than R 
+but am certainly able to perform normal tasks and can read and understand code. 
+
 
 
 These are just a handful of examples from the many different things I have worked on.
